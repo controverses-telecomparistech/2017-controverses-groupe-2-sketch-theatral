@@ -1,9 +1,7 @@
-# Your space 
+# Folder structure 
 
-You can edit this markdown document to explain what is inside your folder. 
+## Sketches
+Contains all the sketches.
 
-Please commit and push your sketches, mockup  and visualizations inside this folder. 
-
-More information about this class on: the [website](https://controverses.telecom-paristech.fr)
-
-
+### Rendered
+Contains all the rendered sketches.
